@@ -1,12 +1,12 @@
-# Desafio 8
+Desafio 8
 
-##Objetivo:
+Objetivo:
 
 Este desafío tiene como objetivo integrar en una práctica lo que vimos de terraform, github
 actions y configurar un provider de AWS para efectivamente crear un recurso en este proveedor
 cloud.
 
-##Escenario:
+Escenario:
 
 En el último sprint, nuestro equipo estuvo discutiendo y evaluando las posibilidades de mejorar
 el proceso de aprovisionamiento de la infraestructura cloud. Hace un año, incorporamos
