@@ -30,4 +30,6 @@ request.
 
 Alguien en el equipo ya ha investigado el tema y propuso seguir los pasos descritos en el
 siguiente post de HashiCorp
+
+
 ![image](https://github.com/user-attachments/assets/51b416d7-155e-4690-b23a-3312fa51a8ea)
